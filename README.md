@@ -6,8 +6,8 @@ This project implements a Linear Regression algorithm using the Scikit-learn mod
 
 ## Dataset
 
-- **Data Source:** Diabetes Dataset
-- **Dataset Description:** [Seminal Paper]([link_to_seminal_paper](https://hastie.su.domains/Papers/LARS/diabetes.data))
+- **Data Source:** [Diabetes Dataset](https://hastie.su.domains/Papers/LARS/diabetes.data)
+- **Dataset Description:** [Seminal Paper](https://projecteuclid.org/euclid.aos/1083178935)
 
 ## Tasks
 
